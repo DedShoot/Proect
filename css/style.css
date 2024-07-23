@@ -1,10 +1,37 @@
+
+
 .header
 {
 	background: rgb(36, 33, 33);
 }
+.header__1
+{
+	background: rgb(36, 33, 33);
+}
+.main{
+	background: rgb(36, 33, 33);
+	padding: 50px;
+}
+.container3{
+	display: flex;
+	align-items: center;
+
+}
+.hero-block__text2{
+	color: rgb(69, 109, 255);
+	background: rgb(143, 248, 255);
+	padding: 29px;
+	 font-family: "Pacifico", cursive;;
+font-size: 37px;
+font-weight: 370;
+line-height: 65px;
+letter-spacing: 0%;
+text-align: left;
+border: 4px yellow solid;
+}
 .logo__title{
  color: rgb(255, 255, 255);
-font-family: Nico Moji;
+ font-family: "Pacifico", cursive;;
 font-size: 18px;
 font-weight: 400;
 line-height: 18px;
@@ -14,7 +41,7 @@ margin-right: auto;
 }
 .nav__link{
 	color: rgb(144, 201, 255);
-font-family: Nico Moji;
+ font-family: "Pacifico", cursive;;
 font-size: 18px;
 font-weight: 400;
 line-height: 18px;
@@ -36,6 +63,11 @@ text-decoration: none;
 	display: flex;
 	 padding: 36px;
 }
+.logo__img2{
+	margin-right: 10px;
+		width: 400px;
+
+}
 .logo__img{
 	margin-right: 10px;
 }
@@ -44,7 +76,7 @@ text-decoration: none;
 }
 .hero-block__title{
 	color: rgb(228, 228, 228);
-font-family: Nico Moji;
+ font-family: "Pacifico", cursive;;
 font-size: 72px;
 font-weight: 400;
 line-height: 72px;
@@ -53,7 +85,7 @@ text-align: left;
 }
 .hero-block__text{
 	color: rgb(228, 228, 228);
-font-family: Roboto;
+font-family: "Pacifico", cursive;;
 font-size: 20px;
 font-weight: 400;
 line-height: 23px;
@@ -90,7 +122,7 @@ rgb(226, 149, 0)
 }
 .about__title{
 	color: rgb(238, 81, 81);
-font-family: Noto Sans Symbols2;
+font-family: "Pacifico", cursive;
 font-size: 48px;
 font-weight: 400;
 line-height: 82px;
@@ -99,7 +131,7 @@ text-align: left;
 }
 .skills__title{
 	color: rgb(238, 81, 81);
-font-family: Noto Sans Hebrew;
+font-family: "Pacifico", cursive;
 font-size: 30px;
 font-weight: 100;
 line-height: 41px;
@@ -109,7 +141,7 @@ text-align: left;
 
 .skills__name{
 	color: rgb(228, 228, 228);
-font-family: Nico Moji;
+font-family: "Pacifico", cursive;
 font-size: 30px;
 font-weight: 400;
 line-height: 30px;
@@ -162,7 +194,7 @@ background: rgb(238, 81, 81);
 }
 .video__title{
 	color: rgb(255, 220, 220);
-font-family: Nico Moji;
+font-family: "Pacifico", cursive;
 font-size: 48px;
 font-weight: 400;
 line-height: 48px;
@@ -172,11 +204,11 @@ text-align: center	;
 }
 .footer{
 	background: rgb(38, 37, 37);
-	padding: 35px;
+	padding: 100px;
 }
 .footer__text{
 	color: rgb(228, 228, 228);
-font-family: Nico Moji;
+font-family: "Pacifico", cursive;
 font-size: 30px;
 font-weight: 400;
 line-height: 30px;
@@ -186,7 +218,7 @@ text-align: left;
 }
 .footer__title{
 	color: rgb(228, 228, 228);
-font-family: Nico Moji;
+font-family: "Pacifico", cursive;
 font-size: 30px;
 font-weight: 400;
 line-height: 30px;
